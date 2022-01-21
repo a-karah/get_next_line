@@ -6,11 +6,11 @@
 /*   By: akarahan <akarahan@student.42istanbul.com. +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/19 11:09:41 by akarahan          #+#    #+#             */
-/*   Updated: 2022/01/20 11:42:33 by akarahan         ###   ########.fr       */
+/*   Updated: 2022/01/21 11:58:17 by akarahan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(const char *s)
 {
